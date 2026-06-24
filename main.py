@@ -45,7 +45,7 @@ def main():
 
     print()
     print("Done. Model + metadata saved in models/. "
-          "Run notebooks/01_eda_and_experiments.ipynb for full EDA and MLflow results.")
+          "Run notebooks/experiments.ipynb for full EDA and MLflow results.")
     return 0
 
 

@@ -1,12 +1,4 @@
-"""
-Data ingestion layer.
 
-Today this reads a static CSV export. It is kept behind a single function
-on purpose: if the source later becomes a database table or an API
-(e.g. an ERP/Order Management System export job), only `load_raw_data()`
-needs to change -- preprocessing, feature engineering, training and
-prediction code never touch the file system directly.
-"""
 from pathlib import Path
 import pandas as pd
 
