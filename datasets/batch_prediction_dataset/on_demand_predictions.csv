@@ -1,0 +1,16 @@
+Order_ID,Product,Country,Channel,Salesperson,Order_Date,Discount_Pct,Price_per_Box,Marketing_Spend,Boxes_Shipped,Predicted_Amount
+ORD-043347,70% Dark Bar,Brazil,Retail,Arjun Mehta,2024-01-26,2.2,3.5,207.15,163,546.9650339388184
+ORD-112040,Mint Dark Bar,Australia,Wholesale,Emily Clarke,2024-01-03,16.3,12.93,41.59,36,393.21708456135593
+ORD-010089,70% Dark Bar,Australia,Retail,Priya Sharma,2024-12-13,9.2,2.58,67.21,140,332.3255099399428
+ORD-016157,Mixed Assortment Box,Germany,Retail,Haruto Tanaka,2024-03-30,9.4,2.74,66.67,221,547.4058759985935
+ORD-114278,Hazelnut Milk Bar,Australia,Wholesale,James Carter,2024-09-11,8.1,2.73,247.47,240,594.7272867585212
+ORD-039099,Almond Crunch Bar,Australia,Wholesale,Arjun Mehta,2024-04-25,8.9,4.18,65.05,134,498.229955337428
+ORD-096513,Truffle Gift Box,Australia,Retail,Emily Clarke,2024-07-24,11.0,3.29,116.4,131,386.3058079624975
+ORD-176676,Truffle Gift Box,Australia,Wholesale,Sora Watanabe,2024-01-30,6.6,2.86,52.24,182,481.35602588461705
+ORD-053766,70% Dark Bar,Australia,Retail,Priya Sharma,2024-10-01,16.3,3.23,67.74,103,277.2312030277881
+ORD-073195,Almond Crunch Bar,Germany,Online,Isabella Rossi,2024-11-09,1.0,3.39,72.13,139,445.3957203580438
+ORD-120042,Milk Classic Bar,Brazil,Online,Emily Clarke,2024-06-28,4.8,13.58,38.55,20,241.96909302714243
+ORD-097364,70% Dark Bar,India,Wholesale,Arjun Mehta,2024-09-21,9.5,2.92,101.78,96,263.98264275936765
+ORD-052031,70% Dark Bar,Australia,Wholesale,Priya Sharma,2024-06-25,11.3,13.84,42.65,31,381.02768138191175
+ORD-102149,Almond Crunch Bar,Australia,Wholesale,Emily Clarke,2024-07-01,2.55,3.33,48.86,198,628.8234747173203
+ORD-044186,70% Dark Bar,Australia,Retail,Lucas Walker,2024-02-16,14.2,3.97,100.65,71,247.27439340690978
