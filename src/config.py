@@ -20,7 +20,7 @@ METADATA_PATH = MODELS_DIR / "model_metadata.json"
 
 MLRUNS_DIR = ROOT_DIR / "mlruns"
 
-# ---- Columns ----------------------------------------------------------------
+
 TARGET_COL = "Amount"
 
 CATEGORICAL_FEATURES = ["Product", "Country", "Channel"]
@@ -39,9 +39,7 @@ FEATURE_COLUMNS = CATEGORICAL_FEATURES + NUMERIC_FEATURES
 RANDOM_STATE = 42
 MLFLOW_EXPERIMENT_NAME = "chocolate-sales-forecasting"
 
-# Time-based split: hold out the last 2 calendar months of real data
-# as a stand-in "future" test set, because the business question is a
-# forecasting question (predict 2024), not an interpolation question.
+
 HOLDOUT_MONTHS = 2
 
 # 2024 simulation: how we extrapolate from 2023 behaviour when no
